@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BoradcastApp/1.0.0": {
+        "runtime": {
+          "BoradcastApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoradcastApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
